@@ -1,3 +1,5 @@
 BC Resolusi
 -Belajar Design, Pemrograman(Web, Desktop, Android) 
 -Membuat Channel YouTube
+ *editing
+ *recording
